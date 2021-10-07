@@ -1,0 +1,173 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none ;
+    list-style: none;
+}
+li
+{
+    font-size: 1.4rem;
+    justify-content: space-around;
+}
+a.s_inscrire, a:hover
+{
+    background:#5fa9e2;
+    height: 48px;
+    top: 0px;
+}
+a
+ {
+     color: white;
+     background-color: #0082e6;
+ }
+.header
+{
+    background-color:#0082e6;
+    color: white;
+    height: 48px;
+    width: 100%;
+    position: absolute;
+    top: 0%;
+}
+nav
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul
+{
+    display: flex;
+    flex: 1 1 40rem;
+    align-items: center;
+    list-style: none;
+    justify-content: space-between;
+}
+#logo
+{
+    flex: 1 1 40rem;  
+    align-items: center;
+}
+#contenu1
+{
+    font:Verdana, Geneva, sans-serif;
+    font-size:18px;
+    text-align:left;
+    height:50px;
+    vertical-align:middle;
+    line-height: 50px;
+    }
+#contenu2
+{
+    font:Verdana, Geneva, sans-serif;
+    font-size:18px;
+    text-align:right;
+    height:50px;
+    vertical-align: middle;
+    line-height: 50px;
+}   
+.lan
+{position: absolute;
+    top: 3px;
+    left: 768px;
+    height: 25px;
+    width: 75px;
+    background-color: #0082e6;
+    zoom: 160%;
+    border: 0px;
+}
+.lan{color: white;}
+.lan::-webkit-input-placeholder{ 
+    color: white;
+}
+input[type="text"].lan:hover{ background: #5fa9e2 ;}
+
+.français
+{position: absolute;
+    top: 0%;
+    right: 10px;
+    height: 25px;
+}
+.s_inscrire
+{position: absolute;
+    top: 0%;
+    right: 175px;
+    height: 25px;
+}
+.se_connecter
+{position: absolute;
+    top: 0px;
+    right: 325px;
+    height: 25px;
+}
+.voir_les_offres
+{position: absolute;
+    top: 0%;
+    right: 520px;
+    height: 25px;
+}
+.blanc
+{position: absolute;
+    top: 100px;
+    right: 400px;
+    width: 600px;
+    height: 625px;
+}
+.s_inscrire2
+{position:absolute;
+    top: 50px;
+    zoom: 250%;
+    left: 215px;
+}
+.text
+{position:absolute ;
+    top: 80px;
+    zoom: 250%;
+    left: 175px;
+    background-color: #d6d0d0 ;
+}
+.email
+{position:absolute ;
+    top: 115px;
+    zoom: 250%;
+    left: 175px;
+    background-color: #d6d0d0 ;
+}
+.password
+{position:absolute ;
+    top: 150px;
+    zoom: 250%;
+    left: 175px;
+    background-color: #d6d0d0 ;
+}
+.confirm_password
+{position:absolute ;
+    top: 185px;
+    zoom: 250%;
+    left: 175px;
+    background-color: #d6d0d0 ;
+}
+.submit
+{position:absolute ;
+    top: 220px;
+    zoom: 250%;
+    left: 215px;
+    background-color: #157DCD ;
+}
+.vous_avez_deja_un_compte
+{position:absolute ;
+    top: 430px;
+    zoom: 150%;
+    left: 270px;
+}
+.se_connecter2
+{position:absolute ;
+    top: 319px;
+    zoom: 200%;
+    left: 340px;
+    background-color: #157DCD ;
+    border-style:solid;
+    color: black;
+}
