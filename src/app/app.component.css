@@ -71,9 +71,9 @@ nav ul
 .lan
 {position: absolute;
     top: 3px;
-    left: 768px;
+    left: 762px;
     height: 25px;
-    width: 75px;
+    width: 80px;
     background-color: #0082e6;
     zoom: 160%;
     border: 0px;
@@ -117,9 +117,9 @@ input[type="text"].lan:hover{ background: #5fa9e2 ;}
 }
 .s_inscrire2
 {position:absolute;
-    top: 50px;
-    zoom: 250%;
-    left: 215px;
+    top: 60px;
+    zoom: 220%;
+    left: 260px;
 }
 .text
 {position:absolute ;
@@ -160,7 +160,7 @@ input[type="text"].lan:hover{ background: #5fa9e2 ;}
 {position:absolute ;
     top: 430px;
     zoom: 150%;
-    left: 270px;
+    left: 260px;
 }
 .se_connecter2
 {position:absolute ;
